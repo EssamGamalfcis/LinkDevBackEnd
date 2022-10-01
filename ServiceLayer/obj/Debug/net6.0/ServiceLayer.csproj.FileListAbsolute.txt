@@ -1,0 +1,57 @@
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\Asp.NET_Architecture\OnionArchitectureInAspNetCore6WebAPI\ServiceLayer\bin\Debug\net6.0\ServiceLayer.deps.json
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\Asp.NET_Architecture\OnionArchitectureInAspNetCore6WebAPI\ServiceLayer\bin\Debug\net6.0\ServiceLayer.runtimeconfig.json
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\Asp.NET_Architecture\OnionArchitectureInAspNetCore6WebAPI\ServiceLayer\bin\Debug\net6.0\ServiceLayer.dll
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\Asp.NET_Architecture\OnionArchitectureInAspNetCore6WebAPI\ServiceLayer\bin\Debug\net6.0\ref\ServiceLayer.dll
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\Asp.NET_Architecture\OnionArchitectureInAspNetCore6WebAPI\ServiceLayer\bin\Debug\net6.0\ServiceLayer.pdb
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\Asp.NET_Architecture\OnionArchitectureInAspNetCore6WebAPI\ServiceLayer\bin\Debug\net6.0\DomainLayer.dll
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\Asp.NET_Architecture\OnionArchitectureInAspNetCore6WebAPI\ServiceLayer\bin\Debug\net6.0\RepositoryLayer.dll
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\Asp.NET_Architecture\OnionArchitectureInAspNetCore6WebAPI\ServiceLayer\bin\Debug\net6.0\RepositoryLayer.pdb
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\Asp.NET_Architecture\OnionArchitectureInAspNetCore6WebAPI\ServiceLayer\bin\Debug\net6.0\DomainLayer.pdb
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\Asp.NET_Architecture\OnionArchitectureInAspNetCore6WebAPI\ServiceLayer\obj\Debug\net6.0\ServiceLayer.csproj.AssemblyReference.cache
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\Asp.NET_Architecture\OnionArchitectureInAspNetCore6WebAPI\ServiceLayer\obj\Debug\net6.0\ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\Asp.NET_Architecture\OnionArchitectureInAspNetCore6WebAPI\ServiceLayer\obj\Debug\net6.0\ServiceLayer.AssemblyInfoInputs.cache
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\Asp.NET_Architecture\OnionArchitectureInAspNetCore6WebAPI\ServiceLayer\obj\Debug\net6.0\ServiceLayer.AssemblyInfo.cs
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\Asp.NET_Architecture\OnionArchitectureInAspNetCore6WebAPI\ServiceLayer\obj\Debug\net6.0\ServiceLayer.csproj.CoreCompileInputs.cache
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\Asp.NET_Architecture\OnionArchitectureInAspNetCore6WebAPI\ServiceLayer\obj\Debug\net6.0\ServiceLayer.csproj.CopyComplete
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\Asp.NET_Architecture\OnionArchitectureInAspNetCore6WebAPI\ServiceLayer\obj\Debug\net6.0\ServiceLayer.dll
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\Asp.NET_Architecture\OnionArchitectureInAspNetCore6WebAPI\ServiceLayer\obj\Debug\net6.0\ref\ServiceLayer.dll
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\Asp.NET_Architecture\OnionArchitectureInAspNetCore6WebAPI\ServiceLayer\obj\Debug\net6.0\ServiceLayer.pdb
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\Asp.NET_Architecture\OnionArchitectureInAspNetCore6WebAPI\ServiceLayer\obj\Debug\net6.0\ServiceLayer.genruntimeconfig.cache
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\OnionArchitectureInAspNetCore6WebAPI\ServiceLayer\bin\Debug\net6.0\ServiceLayer.deps.json
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\OnionArchitectureInAspNetCore6WebAPI\ServiceLayer\bin\Debug\net6.0\ServiceLayer.runtimeconfig.json
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\OnionArchitectureInAspNetCore6WebAPI\ServiceLayer\bin\Debug\net6.0\ServiceLayer.dll
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\OnionArchitectureInAspNetCore6WebAPI\ServiceLayer\bin\Debug\net6.0\ref\ServiceLayer.dll
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\OnionArchitectureInAspNetCore6WebAPI\ServiceLayer\bin\Debug\net6.0\ServiceLayer.pdb
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\OnionArchitectureInAspNetCore6WebAPI\ServiceLayer\bin\Debug\net6.0\DomainLayer.dll
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\OnionArchitectureInAspNetCore6WebAPI\ServiceLayer\bin\Debug\net6.0\RepositoryLayer.dll
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\OnionArchitectureInAspNetCore6WebAPI\ServiceLayer\bin\Debug\net6.0\RepositoryLayer.pdb
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\OnionArchitectureInAspNetCore6WebAPI\ServiceLayer\bin\Debug\net6.0\DomainLayer.pdb
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\OnionArchitectureInAspNetCore6WebAPI\ServiceLayer\obj\Debug\net6.0\ServiceLayer.csproj.AssemblyReference.cache
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\OnionArchitectureInAspNetCore6WebAPI\ServiceLayer\obj\Debug\net6.0\ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\OnionArchitectureInAspNetCore6WebAPI\ServiceLayer\obj\Debug\net6.0\ServiceLayer.AssemblyInfoInputs.cache
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\OnionArchitectureInAspNetCore6WebAPI\ServiceLayer\obj\Debug\net6.0\ServiceLayer.AssemblyInfo.cs
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\OnionArchitectureInAspNetCore6WebAPI\ServiceLayer\obj\Debug\net6.0\ServiceLayer.csproj.CoreCompileInputs.cache
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\OnionArchitectureInAspNetCore6WebAPI\ServiceLayer\obj\Debug\net6.0\ServiceLayer.csproj.CopyComplete
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\OnionArchitectureInAspNetCore6WebAPI\ServiceLayer\obj\Debug\net6.0\ServiceLayer.dll
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\OnionArchitectureInAspNetCore6WebAPI\ServiceLayer\obj\Debug\net6.0\ref\ServiceLayer.dll
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\OnionArchitectureInAspNetCore6WebAPI\ServiceLayer\obj\Debug\net6.0\ServiceLayer.pdb
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\OnionArchitectureInAspNetCore6WebAPI\ServiceLayer\obj\Debug\net6.0\ServiceLayer.genruntimeconfig.cache
+D:\LinkDev Task\BackEnd\ServiceLayer\obj\Debug\net6.0\ServiceLayer.csproj.AssemblyReference.cache
+D:\LinkDev Task\BackEnd\ServiceLayer\obj\Debug\net6.0\ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\LinkDev Task\BackEnd\ServiceLayer\obj\Debug\net6.0\ServiceLayer.AssemblyInfoInputs.cache
+D:\LinkDev Task\BackEnd\ServiceLayer\obj\Debug\net6.0\ServiceLayer.AssemblyInfo.cs
+D:\LinkDev Task\BackEnd\ServiceLayer\obj\Debug\net6.0\ServiceLayer.csproj.CoreCompileInputs.cache
+D:\LinkDev Task\BackEnd\ServiceLayer\obj\Debug\net6.0\ServiceLayer.dll
+D:\LinkDev Task\BackEnd\ServiceLayer\obj\Debug\net6.0\ServiceLayer.pdb
+D:\LinkDev Task\BackEnd\ServiceLayer\bin\Debug\net6.0\ServiceLayer.deps.json
+D:\LinkDev Task\BackEnd\ServiceLayer\bin\Debug\net6.0\ServiceLayer.runtimeconfig.json
+D:\LinkDev Task\BackEnd\ServiceLayer\bin\Debug\net6.0\ServiceLayer.dll
+D:\LinkDev Task\BackEnd\ServiceLayer\bin\Debug\net6.0\ServiceLayer.pdb
+D:\LinkDev Task\BackEnd\ServiceLayer\bin\Debug\net6.0\DomainLayer.dll
+D:\LinkDev Task\BackEnd\ServiceLayer\bin\Debug\net6.0\RepositoryLayer.dll
+D:\LinkDev Task\BackEnd\ServiceLayer\bin\Debug\net6.0\RepositoryLayer.pdb
+D:\LinkDev Task\BackEnd\ServiceLayer\bin\Debug\net6.0\DomainLayer.pdb
+D:\LinkDev Task\BackEnd\ServiceLayer\obj\Debug\net6.0\ServiceLayer.csproj.CopyComplete
+D:\LinkDev Task\BackEnd\ServiceLayer\obj\Debug\net6.0\refint\ServiceLayer.dll
+D:\LinkDev Task\BackEnd\ServiceLayer\obj\Debug\net6.0\ServiceLayer.genruntimeconfig.cache
+D:\LinkDev Task\BackEnd\ServiceLayer\obj\Debug\net6.0\ref\ServiceLayer.dll

@@ -1,0 +1,51 @@
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\Asp.NET_Architecture\OnionArchitectureInAspNetCore6WebAPI\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.deps.json
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\Asp.NET_Architecture\OnionArchitectureInAspNetCore6WebAPI\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.runtimeconfig.json
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\Asp.NET_Architecture\OnionArchitectureInAspNetCore6WebAPI\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.dll
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\Asp.NET_Architecture\OnionArchitectureInAspNetCore6WebAPI\RepositoryLayer\bin\Debug\net6.0\ref\RepositoryLayer.dll
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\Asp.NET_Architecture\OnionArchitectureInAspNetCore6WebAPI\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.pdb
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\Asp.NET_Architecture\OnionArchitectureInAspNetCore6WebAPI\RepositoryLayer\bin\Debug\net6.0\DomainLayer.dll
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\Asp.NET_Architecture\OnionArchitectureInAspNetCore6WebAPI\RepositoryLayer\bin\Debug\net6.0\DomainLayer.pdb
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\Asp.NET_Architecture\OnionArchitectureInAspNetCore6WebAPI\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.AssemblyReference.cache
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\Asp.NET_Architecture\OnionArchitectureInAspNetCore6WebAPI\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\Asp.NET_Architecture\OnionArchitectureInAspNetCore6WebAPI\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfoInputs.cache
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\Asp.NET_Architecture\OnionArchitectureInAspNetCore6WebAPI\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfo.cs
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\Asp.NET_Architecture\OnionArchitectureInAspNetCore6WebAPI\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.CoreCompileInputs.cache
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\Asp.NET_Architecture\OnionArchitectureInAspNetCore6WebAPI\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.CopyComplete
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\Asp.NET_Architecture\OnionArchitectureInAspNetCore6WebAPI\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.dll
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\Asp.NET_Architecture\OnionArchitectureInAspNetCore6WebAPI\RepositoryLayer\obj\Debug\net6.0\ref\RepositoryLayer.dll
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\Asp.NET_Architecture\OnionArchitectureInAspNetCore6WebAPI\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.pdb
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\Asp.NET_Architecture\OnionArchitectureInAspNetCore6WebAPI\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.genruntimeconfig.cache
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\OnionArchitectureInAspNetCore6WebAPI\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.deps.json
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\OnionArchitectureInAspNetCore6WebAPI\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.runtimeconfig.json
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\OnionArchitectureInAspNetCore6WebAPI\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.dll
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\OnionArchitectureInAspNetCore6WebAPI\RepositoryLayer\bin\Debug\net6.0\ref\RepositoryLayer.dll
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\OnionArchitectureInAspNetCore6WebAPI\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.pdb
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\OnionArchitectureInAspNetCore6WebAPI\RepositoryLayer\bin\Debug\net6.0\DomainLayer.dll
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\OnionArchitectureInAspNetCore6WebAPI\RepositoryLayer\bin\Debug\net6.0\DomainLayer.pdb
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\OnionArchitectureInAspNetCore6WebAPI\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.AssemblyReference.cache
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\OnionArchitectureInAspNetCore6WebAPI\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\OnionArchitectureInAspNetCore6WebAPI\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfoInputs.cache
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\OnionArchitectureInAspNetCore6WebAPI\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfo.cs
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\OnionArchitectureInAspNetCore6WebAPI\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.CoreCompileInputs.cache
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\OnionArchitectureInAspNetCore6WebAPI\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.CopyComplete
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\OnionArchitectureInAspNetCore6WebAPI\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.dll
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\OnionArchitectureInAspNetCore6WebAPI\RepositoryLayer\obj\Debug\net6.0\ref\RepositoryLayer.dll
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\OnionArchitectureInAspNetCore6WebAPI\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.pdb
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\OnionArchitectureInAspNetCore6WebAPI\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.genruntimeconfig.cache
+D:\LinkDev Task\BackEnd\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.deps.json
+D:\LinkDev Task\BackEnd\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.runtimeconfig.json
+D:\LinkDev Task\BackEnd\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.dll
+D:\LinkDev Task\BackEnd\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.pdb
+D:\LinkDev Task\BackEnd\RepositoryLayer\bin\Debug\net6.0\DomainLayer.dll
+D:\LinkDev Task\BackEnd\RepositoryLayer\bin\Debug\net6.0\DomainLayer.pdb
+D:\LinkDev Task\BackEnd\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.AssemblyReference.cache
+D:\LinkDev Task\BackEnd\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\LinkDev Task\BackEnd\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfoInputs.cache
+D:\LinkDev Task\BackEnd\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfo.cs
+D:\LinkDev Task\BackEnd\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.CoreCompileInputs.cache
+D:\LinkDev Task\BackEnd\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.CopyComplete
+D:\LinkDev Task\BackEnd\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.dll
+D:\LinkDev Task\BackEnd\RepositoryLayer\obj\Debug\net6.0\refint\RepositoryLayer.dll
+D:\LinkDev Task\BackEnd\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.pdb
+D:\LinkDev Task\BackEnd\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.genruntimeconfig.cache
+D:\LinkDev Task\BackEnd\RepositoryLayer\obj\Debug\net6.0\ref\RepositoryLayer.dll
